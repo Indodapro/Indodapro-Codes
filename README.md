@@ -3,7 +3,6 @@ Some codes I made
     Indo :)
 
     Custom image format:
-        Descripton:
             Title:
                 Custom image format
             Credits:
